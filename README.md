@@ -71,7 +71,7 @@ node_filesystem_avail_bytes/(1024*1024*1024)
 1. Сохраните ваш Dashboard.Для этого перейдите в настройки Dashboard, выберите в боковом меню «JSON MODEL». Далее скопируйте отображаемое json-содержимое в отдельный файл и сохраните его.
 1. В качестве решения задания приведите листинг этого файла.
 
-[Json](https://github.com/gaming4funNel/monitoring-hw-03/blob/main/img/1-1725557859060.json)
+[Json](https://github.com/gaming4funNel/monitoring-hw-03/blob/main/1-1725557859060.json)
 
 ---
 
